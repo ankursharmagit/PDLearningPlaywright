@@ -1,0 +1,14 @@
+node_modules/
+.DS_Store
+.env
+.idea/
+.vscode/
+coverage/
+playwright-report/
+npm-debug.log
+yarn-error.log
+dist/
+/.nyc_output/
+coverage/
+__pycache__/
+*.log
